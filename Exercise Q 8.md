@@ -8,5 +8,15 @@
 #### Program :
 
 ```C++
+#include <iostream>
+#include <iomanip>
 
+using namespace std;
+
+int main()
+{
+	cout<<"PortCity"<<setfill('.')<<setw(12)<<"2425786"<<endl;
+	
+	return 0;
+}
 ```
