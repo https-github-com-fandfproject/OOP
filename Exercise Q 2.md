@@ -10,6 +10,8 @@
 
 ### Use a single Cout Statement for all output.
 
+### Program
+
 ```C++
 #include <iostream>
 #include <iomanip>
