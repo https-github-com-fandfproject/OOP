@@ -17,7 +17,7 @@
    
 ### you can take advantage of the fact that the extraction operator (>>) can be chained to read in more than one quantity at once :
 
-   cin >> a >> dummychar >> b;
+    cin >> a >> dummychar >> b;
    
 #### Program :
 
