@@ -8,7 +8,7 @@
 
 ### Use an integer contant for the 10, an arithmetic assignment operator to generate the 20, and a decrement operator to generate the 19.
 
-#### Programming
+#### Program :
 
 ```C++
 #include <iostream>
